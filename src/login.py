@@ -1,2 +1,3 @@
-#This is the file where u can get your login credentials
+# I command that login should happen
 # Add Company logo
+# supported login with facebook
